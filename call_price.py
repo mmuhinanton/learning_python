@@ -2,7 +2,6 @@
 
 
 def call_price(code, time):
-
     city_price = {
         "Екатеринбург": 15,
         "Омск": 18,
